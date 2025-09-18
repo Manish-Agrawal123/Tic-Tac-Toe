@@ -1,1 +1,3 @@
 # Tic-Tac-Toe
+
+This project is a simple, classic, and responsive two-player Tic-Tac-Toe game built entirely using HTML, CSS, and JavaScript. The front-end is designed with a minimalist and earthy color palette, using flexbox for a clean layout that scales well across different screen sizes. The game logic, handled by JavaScript, includes dynamic turn display, real-time score tracking for both Player 'O' and Player 'X', and accurate detection of winning patterns (rows, columns, and diagonals) and draw conditions. Users can easily start a new round with the "New Game" button or completely reset the scoreboard and game state with the "Reset" button, providing a smooth and complete gameplay experience.
